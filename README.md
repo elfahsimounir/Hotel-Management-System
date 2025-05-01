@@ -17,25 +17,24 @@ A modern, full-stack Hotel Management System built with Next.js, TailwindCSS, an
 🔐 Authentication (optional) – Easily integrate secure login and role-based access control.
 
 🛠️ Tech Stack
-Frontend: Next.js, TailwindCSS
+Frontend: Next.js, TypeScript, TailwindCSS, shadcn PDF.js
 
-PDF Generation: PDF.js
 
-State Management: React Hooks / Context API (or add Redux if used)
+State Management: React Hooks / Context API 
 
 Backend: RESTful API or built-in Next.js API routes
 
 Database:  MongoDB, PostgreSQL
 
 📸 Preview
-...soon
+https://elfahsimounir.github.io/hotelApp/dashboard
 
 📁 Getting Started
 1. Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hotel-management-system
+git clone https://github.com/elfahsimounir/hotel-management-system
 cd hotel-management-system
 2. Install dependencies
 bash
